@@ -1,4 +1,4 @@
-# AIBPE - AI-Based Biometric and Physical Examination System
+# AIBPE 
 
 A comprehensive face analysis system that integrates multiple AI capabilities including face detection, recognition, demographics prediction, skin tone classification, and anomaly detection (acne and pigmentation).
 
@@ -477,3 +477,4 @@ For questions or issues related to this project, please refer to the project doc
 ---
 
 **Last Updated:** Week 6 - Final Integration Complete
+
